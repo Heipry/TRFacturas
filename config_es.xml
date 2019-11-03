@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>trfacturas</name>
+	<displayName><![CDATA[Facturas by TapasRioja]]></displayName>
+	<version><![CDATA[1.0.1]]></version>
+	<description><![CDATA[Impresion de listado de facturas con parametros]]></description>
+	<author><![CDATA[Javier Diaz]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<is_configurable>0</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
